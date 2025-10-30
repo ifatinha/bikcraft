@@ -1,5 +1,15 @@
 # 🚴‍♀️ Bikcraft
 
+[![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS3](https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![Deploy](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-181717?logo=github)](https://ifatinha.github.io/bikcraft/)
+[![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/ifatinha/bikcraft)
+
+---
+## 🇧🇷 **Descrição (Português)**
+
 Bikcraft é um projeto de site institucional moderno desenvolvido para apresentar uma marca fictícia de bicicletas artesanais.  
 O foco está em **design minimalista**, **performance otimizada** e **organização profissional de código** usando ferramentas do ecossistema JavaScript.
 
