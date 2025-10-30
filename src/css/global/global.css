@@ -1,0 +1,25 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    color      : #111111;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity    : 0;
+    transition : opacity 3s ease;
+}
+
+body.loaded {
+    opacity: 1;
+}
+
+img[src$=".jpg"] {
+    border-radius: 4px;
+}
+
+.container {
+    padding  : 0 2%;
+    max-width: 1200px;
+    margin   : 0 auto;
+    width    : 100%;
+}
